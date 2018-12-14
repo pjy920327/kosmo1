@@ -1,0 +1,26 @@
+132153140522-9kncrdhhuao0ik7fk37i3r1en8c30qle.apps.googleusercontent.com
+
+M2NuBtUVfk--PrbnQom6So9W
+
+
+https://opentutorials.org/module/3705/22236
+
+
+规过1) 备臂 砒哦 捞侩
+Integrating Google Sign-In into your web app
+https://developers.google.com/identity/sign-in/web/sign-in
+
+规过2) 备臂 SDK 捞侩
+Google Sign-In Javascript client reference
+https://developers.google.com/identity/sign-in/web/reference
+
+google calendar api scope
+https://developers.google.com/calendar/auth
+
+规过3) OAuth 流立 备泅
+https://opentutorials.org/module/3705/22264
+
+
+
+
+Google Calendar API
