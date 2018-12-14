@@ -15,7 +15,7 @@
 <form method="post" action="/abc">
 <table border="1" width="400"  bordercolor="red"
 cellpadding="0" cellspacing="0">  
-<tr>
+<tr> 
  <td colspan="2" align="center">제품코드입력(4자리)</td>
 </tr>
 <tr>
